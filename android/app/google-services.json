@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "416496861813",
+    "project_id": "codara-81026",
+    "storage_bucket": "codara-81026.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416496861813:android:a156fd2541491309852e3c",
+        "android_client_info": {
+          "package_name": "com.codara.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBiarFmQ4ndyCceSYGaMN5S-rW_ddZczs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416496861813:android:894bb6bef28daa3d852e3c",
+        "android_client_info": {
+          "package_name": "com.codara.codara"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBiarFmQ4ndyCceSYGaMN5S-rW_ddZczs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
